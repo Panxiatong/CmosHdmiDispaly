@@ -1,0 +1,2 @@
+# CmosHdmiDispaly
+这是一个fpga学习项目，DDR3SDARM缓存摄像头采集数据并通过HDMI显示
