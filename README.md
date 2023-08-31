@@ -1,2 +1,2 @@
 # CmosHdmiDispaly
-这是一个fpga学习项目，DDR3SDARM缓存摄像头采集数据并通过HDMI显示
+这是一个fpga学习项目，Ov5640实时采集图像数据，由DDR3控制器将数据缓存至DDR3存储器中，随后读取数据通过外接HDMI显示器显示。
